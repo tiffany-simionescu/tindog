@@ -1,0 +1,18 @@
+/* Google Fonts */
+/* font-family: 'Montserrat', sans-serif; */
+/* font-family: 'Ubuntu', sans-serif; */
+
+/* Element Selectors */
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+/* Class Selectors */
+
+/* ID Selectors */
+#title {
+    background-color: #ff4c68;
+}
